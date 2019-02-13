@@ -1,6 +1,7 @@
 import Contacto from "./Contacto.js"
 
 // -----------------Objeto CONTACTO----------------------//
+
 let c1 = new Contacto("Juan Perez", "Operador", "312-189-7690", "juan.perez@gmail.com");
 
 c1.imprimirContacto();
